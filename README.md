@@ -413,9 +413,9 @@ ___
 ____
 ## Вставка изображения
 ```
-![Alt-текст](https://kartinkin.net/uploads/posts/2022-03/1647883887_59-kartinkin-net-p-ork-kartinki-60.jpg "Орк")
+![Alt-текст](https://kartinkin.net/uploads/posts/2022-03/1647883887_59-kartinkin-net-p-ork-kartinki-60.jpg "Супер ОРК")
 ```
-![Alt-текст](https://kartinkin.net/uploads/posts/2022-03/1647883887_59-kartinkin-net-p-ork-kartinki-60.jpg "Орк")
+![Alt-текст](https://kartinkin.net/uploads/posts/2022-03/1647883887_59-kartinkin-net-p-ork-kartinki-60.jpg "Супер ОРК")
 
 ### Дополнительно!!!:
 #### Вставка ссылки с картинкой на ролик с YouTube
