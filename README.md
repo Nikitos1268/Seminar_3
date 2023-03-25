@@ -403,7 +403,7 @@ ___
 
 Второй вариант записывается так: `[текст ссылки](адрес ссылки)`
 ```
-[sabaka.net](http://sabaka.net)
+[Yandex.ru](http://Yandex.ru)
 ```
 [sabaka.net](http://sabaka.net)
     
